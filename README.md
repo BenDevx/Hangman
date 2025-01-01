@@ -1,13 +1,13 @@
 Hangman Game
 
-Table of Contents
+## Table of Contents
 
-Description
-Installation Instructions
-Usage Instructions
-File Structure
-License
-Description
+### Description
+### Installation Instructions
+### Usage Instructions
+### File Structure
+### License
+### Description
 
 The Hangman Game is a Python-based word-guessing game where players attempt to guess a randomly chosen word by suggesting letters. The game provides feedback on correct and incorrect guesses and ends when the player either guesses the word or runs out of lives.
 
